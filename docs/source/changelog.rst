@@ -6,15 +6,15 @@ Version 1.2.13
 
 :Date: Jan 10, 2023
 
-* [RIS-2497](https://radpoint.atlassian.net/browse/RIS-2497) [REG] Automatyczne wypełnianie dawek w formularzu zlecenia w oparciu o dane DICOM
+* `[RIS-2497](https://radpoint.atlassian.net/browse/RIS-2497)` [REG] Automatyczne wypełnianie dawek w formularzu zlecenia w oparciu o dane DICOM
 
 	W formularzu zlecenia w module rejestracji dodano funkcjonalność automatycznego wypełniania sekcji dotyczącej dawki dla badąń TK i RTG. Obecnie system umożliwa wklejanie wstępnych wyniki analizy autorskiego algorytmu AI DOSE DR / AI DOSE CT w sekcji dotyczącej ewidencji dawek. Dostęp do funkcjonalności wymaga odpowiedniej licencji.    
   
-* [RIS-2572](https://radpoint.atlassian.net/browse/RIS-2572) Rozszerzenie modelu bazy danych (jednostki kierujące) 
+* `**[RIS-2572]** <https://radpoint.atlassian.net/browse/RIS-2572>` Rozszerzenie modelu bazy danych (jednostki kierujące) 
 
-* [RIS-2587](https://radpoint.atlassian.net/browse/RIS-2587) [REG] Zmiany widoku dokumentów załaczonych do badania 
+* `[RIS-2587](https://radpoint.atlassian.net/browse/RIS-2587)` [REG] Zmiany widoku dokumentów załaczonych do badania 
 
-* [RIS-2563](https://radpoint.atlassian.net/browse/RIS-2563) [RPT] Nowy filtr dla zleceń teleradiologicznych "Rodzaje zlecen" 
+* `[RIS-2563](https://radpoint.atlassian.net/browse/RIS-2563)` [RPT] Nowy filtr dla zleceń teleradiologicznych "Rodzaje zlecen" 
 
 	**Opisy lokalne \(Lokalne\)** - zlecenia wysyłane do RPT bez kontekstu umowy teleradiologicznej , zdecydowana większość zleceń opisu generowana w zwykłej pracowni lokalnie u klienta RIS/PACS, który nie zleca do opisu w teleradiologii i nie świadczy usług teleradiologii na rzecz innych podmiotów \(np. jako lekarz pracujący w Ostrołęce w lokalnej pracowni TK widzę badania przesłane do opisu z tej pracowni TK - technik wysłał do opisu lokalnego\)
 
