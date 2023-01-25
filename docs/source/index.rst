@@ -51,3 +51,15 @@ Contents
 
    /support
    /faq
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: About Radpoint Platform
+
+   security
+   gdpr
+   changelog
+   about
+   legal/index
+   glossary
